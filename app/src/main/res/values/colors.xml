@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent">#FF4081</color>
+    <color name="background">#F2F3F7</color>
+    <color name="text_main">#212121</color>
+    <color name="text_hint">#757575</color>
+    <color name="key_digit">#FFFFFF</color>
+    <color name="key_function">#DDE1F3</color>
+    <color name="key_operator">#3F51B5</color>
+    <color name="key_equals">#FF4081</color>
+</resources>
